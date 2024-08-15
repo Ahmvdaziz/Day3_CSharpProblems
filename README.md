@@ -11,7 +11,6 @@ This is a simple C# console application that calculates and displays the area of
   - Circle
 - Interactive console input for user-defined shapes.
 - Displays the area of each shape and the total area of all shapes.
-
 ## Project Structure
 
 The project is organized into several classes, each in its own file:
